@@ -1,0 +1,6 @@
+const sumar = (num1,num2)=>{
+    return num1 + num2
+}
+
+module.exports={ sumar };
+//asi podemos exportar un archivo y  luego utilizarlo con un require
